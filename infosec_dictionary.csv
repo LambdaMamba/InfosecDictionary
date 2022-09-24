@@ -4,6 +4,7 @@ Computer terminal,端末
 Confidential,機密
 Deceive,騙す
 Defence,防御
+Destination port,宛先ポート
 Eavesdrop,盗聴
 Envrionment,環境
 Identity Theft,なりすまし
@@ -19,6 +20,7 @@ Ransomware, ランサムウェア
 Scam,詐欺
 Scammer,詐欺師
 Secret,秘密
+Source port,送信元ポート
 Top Secret,厳秘
 Virus,ウイルス
 Vulnerability,脆弱性
